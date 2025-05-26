@@ -1,0 +1,45 @@
+Weather Forecast, weather forecast
+AI, Artificial Intelligence, artificial intelligence, A.I
+ML, Machine Learning, machine learning, machine learning algorithms
+DL, Deep Learning, deep learning
+Reinforcement Learning, reinforcement learning
+Learning Algorithm, learning algorithm
+Supervised Learning, supervised learning
+Intelligent Agent, intelligent agent
+Natural Language Processing, natural language processing
+Expert System, expert system
+Neural Network, Neural Networks, neural network, neural networks
+Pangu-Weather, Pangu Weather
+NLP, Natural Language Processing
+GAN, GANs, Generative Adversarial Networks
+CNN, Convolutional Neural Networks, CNNs
+RNN, RNNs, Recurrent Neural Networks
+SVM, Support Vector Machines,
+DNN, Deep Neural Network
+VQGAN, Vector Quantization GAN
+AWS, Automatic Weather System
+UM, Unified Model
+NWP, Numerical Weather Prediction
+WRF, Weather Research and Forecasting
+ECMWF, European Centre for Medium-Range Weather Forecasts
+WMO, World Meteorological Organization
+KIM, Korea Integrated Model
+LSTM, Long Short-Term Memory, Long Short Term Memory
+ANN, Artificial Neural Network
+RADAR, Radio Detection and Ranging, radar
+LIDAR, Light Detection and Ranging
+SST, Sea Surface Temperature
+precipitation, Precipitation
+ERA5, ECMWF Reanalysis 5
+forecast, forecasting
+RF, Random Forest, random forest
+drought, Drought
+flood, Flood, flooding
+hurricane, Hurricane
+KNN, K-NN, k-NN, K Nearest Neighbors, k-nearest neighbors
+LST, Land Surface Temperature, land surface temperature
+heatwave, heatwaves
+imagery, imaging, image
+LR, Linear Regression, linear regression
+ET, Evapotranspiration, evapotranspiration
+climate, Climate

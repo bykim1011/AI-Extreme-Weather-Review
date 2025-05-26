@@ -1,0 +1,151 @@
+weather forecast
+Weather Forecast
+Artificial Intelligence
+artificial intelligence
+A.I
+AI
+Machine Learning
+machine learning
+Deep Learning
+deep learning
+Reinforcement Learning
+reinforcement learning
+Learning Algorithm
+learning algorithm
+Supervised Learning
+supervised learning
+Intelligent Agent
+intelligent agent
+Natural Language Processing
+natural language processing
+Expert System
+expert system
+Neural Network
+neural network
+KIM
+Korea Integrated Model
+WMO
+World Meteorological Organization
+ECMWF
+European Centre for Medium-Range Weather Forecasts
+Pangu Weather
+Pangu-Weather
+FourCastNet
+GraphCast
+Natural Language Processing
+NLP
+Reinforcement Learning
+Unsupervised Learning
+Semi-supervised Learning
+Generative Adversarial Networks
+GANs
+Convolutional Neural Networks
+CNNs
+Recurrent Neural Networks
+RNNs
+LSTM
+Support Vector Machines
+SVM
+ClimaX
+AI Weather Forecasting
+Machine Learning Weather Models
+Deep Learning Climate Models
+Neural Network Weather Prediction
+AI Climate Analysis
+AI-Based Climate Monitoring
+AI Meteorological Data Analysis
+Climate Prediction AI
+Weather Simulation AI
+AI in Meteorological Forecasting
+Data-Driven Weather Prediction
+Deep Neural Network
+DNN
+Transformer
+Encoder
+Decoder OR 
+VQGAN
+Vector Quantization GAN
+MeBT
+Memory Efficient Bidirectional Transformer
+Parameter
+Hyperparameter
+Learning rate
+SimVP
+Simple Video Prediction
+U-NET
+Discriminator
+Clustering
+ConvLSTM
+Convolutional Long Short-Term Memory
+Weather
+Typhoon
+Heatwave
+Heavy Rain
+Cold Wave
+Snowstorm
+Hurricane
+Tornado
+Monsoon
+Lightning
+Flood
+Climate 
+hange
+Atmospheric Pressure
+Wind Speed
+Rainfall
+Temperature
+Humidity
+Barometric Pressure
+Meteorological Phenomena
+El Niño
+La Niña
+AWS
+Automatic Weather System
+RADAR
+LIDAR
+Satellite
+Nowcasting
+Observation
+WInd Derection
+Radiation
+Relative Humidity
+Vector
+Precipitation
+ERA5
+ECMWF Reanalysis 5
+UM
+Unified Model
+NWP
+Numerical Weather Prediction
+Geopotantial
+Geopotential height
+Integrated Forecasting System
+IFS
+Atmosphere
+WRF
+Weather Research and Forecasting
+Extreme Weather
+Ensemble
+HRES
+SST 
+Sea Surface Temperature
+AUC
+Area under the ROC curve
+ROC
+Receiver operating characteristic
+Artificial Neural Network
+ANN
+BV
+Drought
+drought
+Nash Sutcliffe
+Random Forest
+random forest
+agriculture
+disaster
+threat
+imagery
+Linear Regression
+LR
+XGBoost
+LULC
